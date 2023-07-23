@@ -3,7 +3,7 @@
 ### About me 
 I am a highly motivated and skilled Frontend Developer with expertise in React, Next.js, Node.js, and JavaScript. With a strong passion for creating dynamic and user-friendly web applications, I strive to deliver exceptional experiences through clean and efficient code. My goal is to contribute to innovative projects that challenge and inspire me, and I am currently seeking new opportunities to showcase my talents. Let's collaborate and build amazing digital experiences together!
 ##
-### I’m currently Looking For 
+### I’m currently looking for 
 Currently, I am actively searching for new opportunities and immersing myself in the process of applying for interviews. Simultaneously, I'm also engaged in interview preparations, refining my skills, and staying updated with the latest industry trends.
 
 My expertise lies in front-end development, where I have honed my skills in HTML, CSS, and JavaScript. Over the years, I have gained significant experience working with frameworks and libraries like React.js and Next.js, enabling me to build dynamic and interactive user interfaces. However, my curiosity and passion extend beyond the front end. I'm eager to explore the realms of backend development and dive into the fascinating world of databases, particularly MongoDB.
@@ -16,7 +16,11 @@ With this broader scope in mind, I'm excited to embark on the path of becoming a
   </a> &nbsp; 
   <a href="https://github.com/madhurijawadekar-16" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+  </a> &nbsp; 
+  Download My Resume from here
+  <a href="https://plum-karon-96.tiiny.site/" rel="nofollow noreferrer">
+   Resume
+  </a> 
 </p>
 
 <!--
